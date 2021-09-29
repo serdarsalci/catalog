@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{C4E17C6A-E83A-4316-B896-FF8D233018C0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Dtos/CreateItemDto.cs">
+    <Files>
+      <File FileName="Startup.cs" Line="16" Column="18" />
+      <File FileName="Extensions.cs" Line="12" Column="25" />
+      <File FileName="Controllers/ItemsController.cs" Line="29" Column="6" />
+      <File FileName="Dtos/CreateItemDto.cs" Line="15" Column="1" />
+      <File FileName="Dtos/ItemDto.cs" Line="15" Column="2" />
+      <File FileName="Dtos/UpdateItemDto.cs" Line="1" Column="1" />
+      <File FileName="Entities/Item.cs" Line="18" Column="2" />
+      <File FileName="Repositories/IItemsRepository.cs" Line="21" Column="4" />
+      <File FileName="Repositories/InMemItemsRepository.cs" Line="29" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="catalog" expanded="True">
+            <Node name="catalog" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Dtos" expanded="True">
+                <Node name="CreateItemDto.cs" selected="True" />
+              </Node>
+              <Node name="Entities" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.catalog PreferredExecutionTarget="/Applications/Firefox.app" />
+</Properties>

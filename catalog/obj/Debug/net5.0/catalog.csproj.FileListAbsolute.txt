@@ -26,3 +26,15 @@
 /Users/serdarsalci/Projects/NetAPI/catalog/obj/Debug/net5.0/ref/catalog.dll
 /Users/serdarsalci/Projects/NetAPI/catalog/obj/Debug/net5.0/catalog.pdb
 /Users/serdarsalci/Projects/NetAPI/catalog/obj/Debug/net5.0/catalog.genruntimeconfig.cache
+/Users/serdarsalci/Projects/NetAPI/catalog/bin/Debug/net5.0/DnsClient.dll
+/Users/serdarsalci/Projects/NetAPI/catalog/bin/Debug/net5.0/MongoDB.Bson.dll
+/Users/serdarsalci/Projects/NetAPI/catalog/bin/Debug/net5.0/MongoDB.Driver.dll
+/Users/serdarsalci/Projects/NetAPI/catalog/bin/Debug/net5.0/MongoDB.Driver.Core.dll
+/Users/serdarsalci/Projects/NetAPI/catalog/bin/Debug/net5.0/MongoDB.Libmongocrypt.dll
+/Users/serdarsalci/Projects/NetAPI/catalog/bin/Debug/net5.0/SharpCompress.dll
+/Users/serdarsalci/Projects/NetAPI/catalog/bin/Debug/net5.0/runtimes/win/native/libzstd.dll
+/Users/serdarsalci/Projects/NetAPI/catalog/bin/Debug/net5.0/runtimes/win/native/snappy32.dll
+/Users/serdarsalci/Projects/NetAPI/catalog/bin/Debug/net5.0/runtimes/win/native/snappy64.dll
+/Users/serdarsalci/Projects/NetAPI/catalog/bin/Debug/net5.0/runtimes/linux/native/libmongocrypt.so
+/Users/serdarsalci/Projects/NetAPI/catalog/bin/Debug/net5.0/runtimes/osx/native/libmongocrypt.dylib
+/Users/serdarsalci/Projects/NetAPI/catalog/bin/Debug/net5.0/runtimes/win/native/mongocrypt.dll

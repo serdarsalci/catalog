@@ -45,13 +45,9 @@ namespace Catalog.Repositories
 
       var index = items.FindIndex(item => item.Id == id);
 
-      if (index != -1)
-      {
-        items.RemoveAt(index);
-      }
+      items.RemoveAt(index);
+
     }
-
-
 
 
   }
